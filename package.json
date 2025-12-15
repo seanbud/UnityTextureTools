@@ -1,0 +1,12 @@
+{
+    "name": "com.seanbud.texturetools",
+    "version": "1.0.0",
+    "displayName": "Texture Tools",
+    "description": "A collection of helpful texture import and processing tools for Unity.",
+    "unity": "2021.3",
+    "author": {
+        "name": "seanbud",
+        "email": "",
+        "url": "https://github.com/seanbud"
+    }
+}
